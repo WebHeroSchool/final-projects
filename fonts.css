@@ -1,0 +1,39 @@
+@font-face {
+	font-family: Montserrat;
+	src: url('../fonts/montserrat_bold.eot');
+	src: local('?'), url('fonts/montserrat_bold.woff') format('woff'), url('fonts/montserrat_bold.ttf') format('truetype'), url('fonts/montserrat_bold.svg') format('svg');
+	font-weight: 900;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: Montserrat;
+	src: url('../fonts/Montserrat.eot');
+	src: local('?'), url('fonts/Montserrat.woff') format('woff'), url('fonts/Montserrat.ttf') format('truetype'), url('fonts/Montserrat.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: Gilroy;
+	src: url('../fonts/Gilroy-regular.eot');
+	src: local('?'), url('fonts/Gilroy-regular.woff') format('woff'), url('fonts/Gilroy-regular.ttf') format('truetype'), url('fonts/Gilroy-regular.svg') format('svg');
+	font-weight: 300;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: Gilroy;
+	src: url('../fonts/Gilroy-ExtraBold.eot');
+	src: local('?'), url('fonts/Gilroy-ExtraBold.woff') format('woff'), url('fonts/Gilroy-ExtraBold.ttf') format('truetype'), url('fonts/Gilroy-ExtraBold.svg') format('svg');
+	font-weight: 800;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: Roboto;
+	src: url('../fonts/Roboto-Regular.eot');
+	src: local('вє'), url('fonts/Roboto-Regular.woff') format('woff'), url('fonts/Roboto-Regular.ttf') format('truetype'), url('fonts/Roboto-Regular.svg') format('svg');
+	font-weight: 400;
+	font-style: normal;
+}
